@@ -1,0 +1,34 @@
+@host=http://localhost:5128
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3Yzg5N2FlYy03NDg0LTQ5ZWEtYjg0OS1iN2Y4OWU2ZjZiMWIiLCJuYW1lIjoiQ3lyaWwiLCJlbWFpbCI6ImN5cmlsQG1vcm96b3YuY29tIiwianRpIjoiNmYyZWU3OWQtYzkwNC00NzA2LTk3NmItZDdmYTczMDE2OWJhIiwiZXhwIjoxNzAxMzMwMzk5LCJpc3MiOiJOZXdzZXIiLCJhdWQiOiJOZXdzZXIifQ._PrWnB1ySM8v8_soOgepggJgwNbzzv7BqfOj8JWK9LM
+@postId=ba6297e8-3077-4c95-99ae-12bd5fbc4549
+
+### Create post
+POST {{host}}/api/posts
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "title": "The Best Cyber Monday Deals Under $100",
+    "description": "There’s no shortage of discounts for every interest on Cyber Monday. But most Cyber Monday “deals” aren’t worth snapping up. Take a look below to find out which Wirecutter picks are on sale at truly great prices under $100. You can also check out the Wirecutter Deals page for the latest discounts on more Wirecutter picks that meet our rigorous testing and pricing standards."
+}
+
+### Edit post
+
+PUT {{host}}/api/posts/{{postId}}
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "title": "The Best Cyber Monday Deals Under $10",
+    "description": "There’s no shortage of discounts for every interest on Cyber Monday. But most Cyber Monday “deals” aren’t worth snapping up. Take a look below to find out which Wirecutter picks are on sale at truly great prices under $100. You can also check out the Wirecutter Deals page for the latest discounts on more Wirecutter picks that meet our rigorous testing and pricing standards."
+}
+
+### Delete post
+DELETE {{host}}/api/posts/{{postId}}
+Authorization: Bearer {{token}}
+
+### Get post by id
+GET {{host}}/api/posts/{{postId}}
+
+### Get posts
+GET {{host}}/api/posts

@@ -1,0 +1,15 @@
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/bin/Debug/net7.0/Newser.Application.deps.json
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/bin/Debug/net7.0/Newser.Application.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/bin/Debug/net7.0/Newser.Application.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/bin/Debug/net7.0/Newser.Domain.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/bin/Debug/net7.0/Newser.Domain.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.csproj.AssemblyReference.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.AssemblyInfoInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.AssemblyInfo.cs
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.csproj.CoreCompileInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.csproj.CopyComplete
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/refint/Newser.Application.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/Newser.Application.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Application/obj/Debug/net7.0/ref/Newser.Application.dll

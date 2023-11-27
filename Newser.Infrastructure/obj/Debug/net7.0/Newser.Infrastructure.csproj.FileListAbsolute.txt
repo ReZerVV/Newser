@@ -1,0 +1,17 @@
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Infrastructure.deps.json
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Infrastructure.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Infrastructure.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Application.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Domain.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Application.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/bin/Debug/net7.0/Newser.Domain.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.csproj.AssemblyReference.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.AssemblyInfoInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.AssemblyInfo.cs
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.csproj.CopyComplete
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/refint/Newser.Infrastructure.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/Newser.Infrastructure.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Infrastructure/obj/Debug/net7.0/ref/Newser.Infrastructure.dll

@@ -1,0 +1,12 @@
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/bin/Debug/net7.0/Newser.Contracts.deps.json
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/bin/Debug/net7.0/Newser.Contracts.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/bin/Debug/net7.0/Newser.Contracts.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.csproj.AssemblyReference.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.AssemblyInfoInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.AssemblyInfo.cs
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.csproj.CoreCompileInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/refint/Newser.Contracts.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/Newser.Contracts.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Contracts/obj/Debug/net7.0/ref/Newser.Contracts.dll

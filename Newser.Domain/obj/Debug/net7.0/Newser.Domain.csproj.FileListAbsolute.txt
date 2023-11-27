@@ -1,0 +1,12 @@
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/bin/Debug/net7.0/Newser.Domain.deps.json
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/bin/Debug/net7.0/Newser.Domain.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/bin/Debug/net7.0/Newser.Domain.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.csproj.AssemblyReference.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.AssemblyInfoInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.AssemblyInfo.cs
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.csproj.CoreCompileInputs.cache
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/refint/Newser.Domain.dll
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/Newser.Domain.pdb
+/Users/kiramorozova/Projects/www/Newser/Newser.Domain/obj/Debug/net7.0/ref/Newser.Domain.dll
